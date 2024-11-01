@@ -1,0 +1,6 @@
+/.venv/
+/__pycache__/
+/data/dataset/
+.DS_Store
+/new_data/cleaned_data.npy
+/new_data/cleaned_test_data.npy

@@ -13,6 +13,8 @@ The submission on AIcrowd that we reproduce with our ```run.ipynb``` notebook is
 - ID: 275515 
 - by user named: Private.
 
+You can find the report in the ```report.pdf``` file.
+
 We apologize for pushing out last commit too late (~5h past the deadline). We sent an email to Corentin Dumery to give some context about our situation.
 
 Since we are not able to modify the original repo for this project, we provide this new repo with all the files and the data needed for the project.
